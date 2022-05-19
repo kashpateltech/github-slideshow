@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "my first branch"
 ---
 Your text
-Use the left arrow to go back!
+Use the right arrow to go forward!
